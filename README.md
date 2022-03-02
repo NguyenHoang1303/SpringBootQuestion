@@ -129,4 +129,13 @@
 ### 33. Data Binding là gì?
 - Data Binding là cơ chế liên kết dữ liệu đầu vào hoặc đầu ra với các đối tượng model. Hay nói cách khác đó là sự kết nối dữ liệu của bean đặt trong model đến các điều khiển trên form.
 - Data Binding giúp cho việc tương tác với dữ liệu trở nên dễ dàng
-### 34. 
+### 34. Validation là gì?
+-  Là hành động kiểm tra tính hợp lệ của dữ liệu. Việc này giúp cho hệ thống hoạt động an toàn, đảm bảo, tránh xử lý dữ liệu lỗi,... và cũng giúp ngăn chặn một số cuộc tấn công phổ biến như SQL injection hoặc XSS.
+### 35. I18N là gì?
+- là quá trình thi công một vận dụng ứng dụng nhằm nó rất có thể được kiểm soát và điều chỉnh thích hợp cho những ngữ điệu và Khu Vực cơ mà không có sự biến đổi về chuyên môn.
+- đơn giản là chúng ta có thể chuyển dỗi dễ dàng các loại ngôn ngữ hiển thị theo yêu cầu của khách hàng.
+### 36. Sự khác nhau giữa SpringBoot và SpringMVC là gì?
+- Spring Boot là một module của Spring để đóng gói ứng dụng dựa trên Spring với các giá trị mặc định hợp lý. 
+- Spring MVC model view controller-based web framework dựa trên Spring. Nó cung cấp các cấu hình mặc định để xây dựng Spring-powered framework
+### 37. ORM là gì ?
+- ORM (Object Relational Mapping), là một kỹ thuật/cơ chế lập trình thực hiện ánh xạ CSDL sang các đối tượng trong các ngôn ngữ lập trình hướng đối tượng như Java, C# …(các table tương ứng các class, mối ràng buộc giữa các table tương ứng quan hệ giữa các class ‘has a’ , ‘is a’).
